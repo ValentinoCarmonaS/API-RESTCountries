@@ -183,13 +183,13 @@ async def get_countries_stats(
             base_query = base_query.filter(Country.region.ilike(f"%{region}%"))
         
         if metric == "population":
-            get_countries_stats_population(db, region)
+            return get_countries_stats_population(db, region)
             
         elif metric == "area":
-            get_countries_stats_area(db, region)
+            return get_countries_stats_area(db, region)
             
         elif metric == "countries_per_region":
-            get_countries_stats_per_region(db, region)
+            return get_countries_stats_per_region(db, region)
         
         else:
             raise HTTPException(
