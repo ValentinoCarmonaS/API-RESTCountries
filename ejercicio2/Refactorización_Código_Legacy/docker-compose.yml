@@ -1,0 +1,6 @@
+services:
+  sales_analyzer:
+    build: .
+    volumes:
+      - ./reports:/app/reports
+      - ./sales:/app/sales
