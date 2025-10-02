@@ -143,7 +143,7 @@ class SalesSystem:
 if __name__ == "__main__":
     system = SalesSystem()
     system.load_data('./sales.json', './sales.csv')
-    system.set_preferences(output_type='json', currency='EUR')
+    system.set_preferences(output_type='csv', currency='EUR')
     system.process_user(42)
     system.process_user(101)
     system.generate_reports('reports', users=[42, 101])

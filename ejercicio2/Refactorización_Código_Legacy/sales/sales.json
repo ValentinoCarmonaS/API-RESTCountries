@@ -1,0 +1,22 @@
+[
+  {"user_id": 42, "date": "2024-01-15", "price": 1200.0, "quantity": 1, "product": "Gaming Laptop", "category": "Electronics"},
+  {"user_id": 42, "date": "2024-01-20", "price": 75.50, "quantity": 2, "product": "Wireless Mouse", "category": "Accessories"},
+  {"user_id": 101, "date": "2024-01-22", "price": 89.99, "quantity": 3, "product": "Mechanical Keyboard", "category": "Accessories"},
+  {"user_id": 42, "date": "2024-02-05", "price": 450.0, "quantity": 1, "product": "4K Monitor", "category": "Electronics"},
+  {"user_id": 103, "date": "2024-02-10", "price": 25.0, "quantity": 5, "product": "Mouse Pad", "category": "Accessories"},
+  {"user_id": 101, "date": "2024-02-15", "price": 150.0, "quantity": 2, "product": "Gaming Headset", "category": "Audio"},
+  {"user_id": 42, "date": "2024-02-20", "price": 35.0, "quantity": 4, "product": "USB-C Cable", "category": "Cables"},
+  {"user_id": 104, "date": "2024-03-01", "price": 299.99, "quantity": 1, "product": "Tablet", "category": "Electronics"},
+  {"user_id": 42, "date": "2024-03-05", "price": 15.0, "quantity": 10, "product": "Screen Cleaner", "category": "Accessories"},
+  {"user_id": 101, "date": "2024-03-10", "price": 200.0, "quantity": 1, "product": "External SSD", "category": "Storage"},
+  {"user_id": 103, "date": "2024-03-15", "price": 80.0, "quantity": 3, "product": "Webcam", "category": "Electronics"},
+  {"user_id": 42, "date": "2024-03-20", "price": 60.0, "quantity": 2, "product": "Desk Lamp", "category": "Office"},
+  {"user_id": 101, "date": "2024-04-01", "price": 120.0, "quantity": 2, "product": "Bluetooth Speaker", "category": "Audio"},
+  {"user_id": 104, "date": "2024-04-05", "price": 45.0, "quantity": 4, "product": "Laptop Stand", "category": "Accessories"},
+  {"user_id": 42, "date": "2024-04-10", "price": 1800.0, "quantity": 1, "product": "Workstation Laptop", "category": "Electronics"},
+  {"user_id": 103, "date": "2024-04-15", "price": 12.0, "quantity": 8, "product": "HDMI Cable", "category": "Cables"},
+  {"user_id": 101, "date": "2024-05-01", "price": 350.0, "quantity": 1, "product": "Smartwatch", "category": "Wearables"},
+  {"user_id": 42, "date": "2024-05-10", "price": 90.0, "quantity": 3, "product": "Wireless Earbuds", "category": "Audio"},
+  {"user_id": 104, "date": "2024-05-15", "price": 22.0, "quantity": 6, "product": "Phone Case", "category": "Accessories"},
+  {"user_id": 103, "date": "2024-05-20", "price": 75.0, "quantity": 2, "product": "Portable Charger", "category": "Electronics"}
+]

@@ -1,0 +1,16 @@
+user_id,date,price,quantity,product,category,payment_method
+105,2024-01-08,299.99,1,Graphics Card,Electronics,credit_card
+42,2024-01-25,40.0,3,USB Hub,Accessories,debit_card
+106,2024-02-12,15.0,5,Cable Organizer,Accessories,cash
+101,2024-02-18,180.0,1,Noise Cancelling Headphones,Audio,credit_card
+105,2024-02-28,25.0,4,Keyboard Cover,Accessories,debit_card
+42,2024-03-08,120.0,2,Monitor Arm,Accessories,credit_card
+106,2024-03-12,8.0,10,Phone Stand,Accessories,cash
+103,2024-03-25,65.0,2,Wireless Adapter,Electronics,debit_card
+101,2024-04-08,95.0,3,Desk Microphone,Audio,credit_card
+105,2024-04-12,550.0,1,Gaming Console,Electronics,credit_card
+42,2024-04-20,30.0,5,Laptop Sleeve,Accessories,debit_card
+106,2024-05-05,18.0,7,Screen Protector,Accessories,cash
+103,2024-05-12,110.0,2,Bluetooth Mouse,Accessories,credit_card
+101,2024-05-18,420.0,1,Drone,Electronics,credit_card
+105,2024-05-25,12.0,8,Stylus Pen,Accessories,debit_card
