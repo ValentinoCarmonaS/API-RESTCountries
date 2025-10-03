@@ -60,14 +60,14 @@ Este método utiliza el archivo `docker-compose.yml` ubicado en la carpeta raíz
 
 2.  **Construir y levantar los contenedores:**
     ```bash
-    docker-compose up -d client-dashboard qa-tool
+    docker-compose up
     ```
 
 3.  Abre tu navegador y visita [http://localhost:5174](http://localhost:5174). La aplicación se ejecutará dentro de un contenedor Docker, con hot-reloading habilitado.
 
 4. **Para detener ambos contenedores:**
     ```bash
-    docker-compose stop client-dashboard qa-tool
+    docker-compose down
     ```
 
 ---
