@@ -1,0 +1,23 @@
+services:
+  client-dashboard:
+    build:
+      context: ./client-dashboard
+    container_name: client-dashboard-dev
+    ports:
+      - "5173:5173"
+    volumes:
+      - ./client-dashboard/src:/app/src
+      - /app/node_modules
+    restart: unless-stopped
+
+  qa-tool:
+    build:
+      context: ./qa-tool
+    container_name: qa-tool-dev
+    ports:
+      - "5174:5174"
+    volumes:
+      - ./qa-tool/src:/app/src
+      - ./client-dashboard/public/sales_data.json:/app/public/sales_data.json
+      - /app/node_modules
+    restart: unless-stoppeds

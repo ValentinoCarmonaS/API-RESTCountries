@@ -1,0 +1,12 @@
+# Archivos/carpetas grandes y temporales que SI deben ignorarse
+node_modules
+dist
+npm-debug.log
+
+# Archivos de configuración/sistema (OK para ignorar)
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+.md

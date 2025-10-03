@@ -139,11 +139,6 @@ La interacción con la IA fue iterativa, afinando las respuestas a medida que av
 
 Para ejecutar el programa, asegúrese de tener Python y las dependencias (principalmente pandas) instaladas.
 
-### **Dependencias**
-
-\# Se asume que las dependencias están en un requirements.txt  
-pip install \-r requirements.txt  
-\# (Requiere pandas, posiblemente numpy, etc.)
 
 ### **Ejecución del Script**
 

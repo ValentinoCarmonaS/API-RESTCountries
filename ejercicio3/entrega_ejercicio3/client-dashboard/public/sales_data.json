@@ -1,0 +1,28 @@
+{
+  "sales": [
+    {
+      "id": 1,
+      "date": "2023-01-15",
+      "product": "Laptop",
+      "quantity": 2,
+      "price": 1200,
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "date": "2023-01-15",
+      "product": "Mouse",
+      "quantity": -3,
+      "price": 25,
+      "rating": 3.8
+    },
+    {
+      "id": 3,
+      "date": "2023-01-16",
+      "product": null,
+      "quantity": 1,
+      "price": 300,
+      "rating": 5.0
+    }
+  ]
+}

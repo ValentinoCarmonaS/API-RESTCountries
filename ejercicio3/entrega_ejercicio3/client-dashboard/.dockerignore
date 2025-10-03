@@ -1,0 +1,16 @@
+# Ignorar dependencias de Node, se instalarán en el contenedor
+node_modules
+
+# Ignorar archivos de build local (si existen)
+dist
+
+# Archivos de log y configuración del IDE
+npm-debug.log
+.vscode/
+.idea/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+.md
